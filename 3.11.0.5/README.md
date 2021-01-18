@@ -1,24 +1,26 @@
 # README
 
 ## About
-Source code repository can be found [here](https://github.com/Cyan4973/xxHash).
+This is a commercial software from IBM, no source code.
 
 ## Building the container for Bridges (or similar)
 Run
 
 ```
-bash ./rbuild.sh
+bash ./build.sh
 ```
+
+This image cannot be built remotely.
 
 ## Installing the container on Bridges (or similar)
 Copy the
 
 * `SIF` file
-* and the `xxh*` scripts
+* and the `ascp` script
 
-to `/opt/packages/xxhash/0.8.0`.
+to `/opt/packages/aspera-connect/3.11.0.5`.
 
-Copy the file `modulefile` to `/opt/modules/xxhash` as `0.8.0`.
+Copy the file `modulefile` to `/opt/modules/aspera-connect` as `3.11.0.5`.
 
 ## Test
 To run the available tests, run the command
