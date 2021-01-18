@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IMAGE=singularity-aspera-3.11.0.5.sif
+IMAGE=singularity-aspera-connect-3.11.0.5.sif
 DEFINITION=Singularity
 
 if [ -f $IMAGE ]; then
