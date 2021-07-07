@@ -1,8 +1,8 @@
 ![Status](https://github.com/pscedu/singularity-aspera-connect/actions/workflows/main.yml/badge.svg)
 ![Issue](https://img.shields.io/github/issues/pscedu/singularity-aspera-connect)
-![forks](https://img.shields.io/github/forks/pscedu/singularity-imagemagick)
-![Stars](https://img.shields.io/github/stars/pscedu/singularity-imagemagick)
-![License](https://img.shields.io/github/license/pscedu/singularity-imagemagick)
+![forks](https://img.shields.io/github/forks/pscedu/singularity-aspera-connect)
+![Stars](https://img.shields.io/github/stars/pscedu/singularity-aspera-connect)
+![License](https://img.shields.io/github/license/pscedu/singularity-aspera-connect)
 
 
 ## Building the image using the recipe
