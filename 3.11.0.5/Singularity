@@ -5,7 +5,7 @@ From: debian:latest
     AUTHOR icaoberg
     EMAIL icaoberg@psc.edu
     SUPPORT help@psc.edu
-    REPOSITORY http://gitlab.psc.edu/icaoberg/singularity-aspera-connect
+    REPOSITORY http://github.com/pscedu/singularity-aspera-connect
     VERSION 3.11.0.5
 
 %files
