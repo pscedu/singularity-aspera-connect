@@ -15,5 +15,3 @@ From: debian:latest
     ln -s /opt/aspera/connect/bin/ascp /usr/bin/ascp
     ln -s /opt/aspera/connect/bin/asperaconnect /usr/bin/asperaconnect
     ln -s /opt/aspera/connect/bin/asperacrypt /usr/bin/asperacrypt
-
-####################################################################################
