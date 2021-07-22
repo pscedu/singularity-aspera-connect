@@ -4,6 +4,8 @@
 -- "URL: https://www.psc.edu/resources/software"
 -- "Category: Other"
 -- "Description: IBM Aspera® Connect helps you securely move file and folders of any size."
+-- "Keywords: singularity utilities"
+
 
 whatis("Name: Aspera Connect")
 whatis("Version: 3.11.0.5")
