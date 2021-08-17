@@ -1,4 +1,5 @@
 ![Status](https://github.com/pscedu/singularity-aspera-connect/actions/workflows/main.yml/badge.svg)
+![Status](https://github.com/pscedu/singularity-aspera-connect/actions/workflows/pretty.yml/badge.svg)
 ![Issue](https://img.shields.io/github/issues/pscedu/singularity-aspera-connect)
 ![forks](https://img.shields.io/github/forks/pscedu/singularity-aspera-connect)
 ![Stars](https://img.shields.io/github/stars/pscedu/singularity-aspera-connect)
