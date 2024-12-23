@@ -18,17 +18,10 @@ Copy the file `modulefile.lua` to `/opt/modulefiles/aspera-connect` as `4.1.12.l
 
 ## Building the image using the recipe
 ### To build the image locally
-Run the script `build.sh` to build image locally. As of today, Does not work on MacOSX.
+Run the script `build.sh` to build image locally.
 
 ```
 bash ./build.sh
-```
-
-### To build the image remotely
-Run the script `rbuild.sh` to build image remotely.
-
-```
-bash ./rbuild.sh
 ```
 
 ## To run tests
