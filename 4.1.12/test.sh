@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./ascp --help
